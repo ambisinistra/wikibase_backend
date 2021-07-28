@@ -3,4 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#url, login and pass here
 config.py
+
+#tsv file with metadata to upload
+*.tsv
